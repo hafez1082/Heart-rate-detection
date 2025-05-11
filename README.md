@@ -41,8 +41,9 @@ data/
 ```
 
 ### Running the Analysis
-1. Update the `dataset_folder` path in the notebook to point to your data directory
-2. Run the Jupyter notebook cells sequentially:
+1. Open `course_project.ipynb` in the `code` folder
+2. Update the `dataset_folder` path in the notebook to point to your data directory
+3. Run the Jupyter notebook cells sequentially:
    - First load the data
    - Then perform synchronization
    - Run the analysis pipeline
